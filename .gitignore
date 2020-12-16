@@ -1,3 +1,12 @@
+# build results
+/target
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 # Compiled class file
 *.class
 
